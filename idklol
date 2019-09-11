@@ -1,0 +1,6 @@
+echo "# DankMemeQuiz-publish" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Gamer69420/DankMemeQuiz-publish.git
+git push -u origin master
